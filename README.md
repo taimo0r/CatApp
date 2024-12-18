@@ -11,11 +11,11 @@ This repository contains a simple Android application built with Kotlin that fet
 ## Requirements
 
 - **Android Studio:** Latest stable version.
-- **Android SDK:** Targeting Android API 33 or above.
+- **Android SDK:** Targeting Android API 34 or above.
 - **Kotlin:** Uses Kotlin for all source code.
 
 ## Setup
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/random-cat-image-app.git
+   git clone https://github.com/taimo0r/CatApp.git
